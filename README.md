@@ -1,2 +1,2 @@
-# learning_repository-
-to learn how to code and be better than before
+# 职工工资管理系统
+  利用C语言完成，可以进行职工工资信息的导入（文件），并且可以对其进行修改，编辑，查找以及排序统计，你可以直观的浏览职工的工资信息，提升企业的效率
